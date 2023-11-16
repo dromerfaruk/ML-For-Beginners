@@ -148,6 +148,8 @@ Would you like to contribute a translation? Please read our [translation guideli
 
 Our team produces other curricula! Check out:
 
+trying new function
+
 - [AI for Beginners](https://aka.ms/ai-beginners)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners)
 - [Generative AI for Beginners](https://aka.ms/genai-beginners)
